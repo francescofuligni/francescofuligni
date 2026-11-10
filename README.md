@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=16&amp;duration=1&amp;repeat=false&amp;multiline=true&amp;center=true&amp;width=720&amp;height=50&amp;color=8B949E&amp;lines=Computer+Science+student+from+Bologna+with+a+soft+spot+for;AI%2C+cybersecurity%2C+and+little+projects+that;make+everyday+life+easier."
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=16&amp;duration=1&amp;repeat=false&amp;multiline=true&amp;center=true&amp;width=720&amp;height=76&amp;color=8B949E&amp;lines=Computer+Science+student+from+Bologna+with+a+soft+spot+for;AI%2C+cybersecurity%2C+and+little+projects+that;make+everyday+life+easier."
     alt="Computer Science student from Bologna with a soft spot for AI, cybersecurity, and little projects that make everyday life easier.">
 </p>
 
