@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=30&amp;duration=1000&amp;pause=0&amp;repeat=false&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=60&amp;color=FFFFFF&amp;separator=%2F&amp;lines=%E2%A0%80%2Fprintf%28%22Hej%2C+Francesco+h%C3%A4r%21%22%29%3B%2FHey%2C+Francesco+here%21"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=30&amp;duration=1000&amp;pause=1000&amp;repeat=false&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=60&amp;color=FFFFFF&amp;separator=%2F&amp;lines=%E2%A0%80%2Fprintf%28%22Hej%2C+Francesco+h%C3%A4r%21%22%29%3B%2FHey%2C+Francesco+here%21"
     alt="Hey, Francesco here!">
 </h1>
 
